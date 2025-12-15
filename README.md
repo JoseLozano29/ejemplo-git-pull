@@ -1,2 +1,2 @@
-# Repositorio para practicar git pull
+# Repositorio para practicar git pull (Jose lozano)
 repositorio para practicar git pull
